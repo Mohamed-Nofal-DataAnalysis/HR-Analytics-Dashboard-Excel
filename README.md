@@ -133,6 +133,12 @@ Although this project uses Excel (not Power BI), advanced formulas were used to 
 
 ---
 
+## Dashboard Screenshots (Click to enlarge) :
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard-Excel/blob/main/Departments.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/HR-Analytics-Dashboard-Excel/blob/main/Employies.png">
+
+---
+
 ## 📁 File Structure
 
 ```
